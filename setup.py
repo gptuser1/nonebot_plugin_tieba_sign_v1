@@ -22,6 +22,7 @@ setuptools.setup(
     platforms="any",
     install_requires=[
         "nonebot2 >= 2.0.0b1",
-        "nonebot-adapter-onebot >= 2.0.0b1"
+        "nonebot-adapter-onebot >= 2.0.0b1",
+        "requests >= 2.23.1"
     ]
 )
